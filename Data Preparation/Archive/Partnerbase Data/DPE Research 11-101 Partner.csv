@@ -1,0 +1,478 @@
+Company,Industry,Founded,Number of Partners
+3M,"Software, Automotive",1902,25
+7-Eleven,Retail,1927,14
+Abbott,"Healthcare, Pharmaceutical",1944,21
+AB InBev,"Food and Beverage, Consumer Goods, ECommerce",1952,12
+ABN AMRO Bank N.V.,"Banking, Financial Services",1991,18
+Actemium,"Information Technology, Project Management",0,11
+Adidas,Fashion,1920,22
+ADT,"Consumer Goods, Cyber Security",1974,12
+Aecom,"Management Consulting, Information Technology",1990,11
+Aetna,Healthcare,1853,19
+Aflac,"Healthcare, Insurance",1955,15
+airasia,"Business Intelligence, ECommerce",2001,12
+Airbus,Hardware,1970,15
+Air France,Information Technology,1993,14
+Air Liquide,"Healthcare, Logistics and Supply Chain",1902,12
+Air New Zealand,Automotive,1940,14
+Airtel,"Telecommunications, Internet, Public Relations",1995,13
+Alaska Air Group,Customer Service,1932,15
+Alghanim Industries,Information Technology,1932,22
+Algonquin College,Information Technology,1967,26
+Alibaba,"Internet, ECommerce",1999,52
+Alight Solutions,"Management Consulting, Human Resources",2017,23
+Allstate,"Finance, Insurance",1931,22
+Alstom,Energy,1928,11
+Altran,Information Technology,1982,18
+AMD,"Software, Design, Graphic Design, Hardware",1969,38
+América Móvil,"App Development, Telecommunications, Internet",2000,14
+American Airlines,Customer Service,1930,16
+American Express,"Finance, Financial Services, Consumer Goods",1850,75
+AmerisourceBergen,"Healthcare, Pharmaceutical",2001,19
+Amgen,"Healthcare, Pharmaceutical",1980,14
+Aon plc,"Management Consulting, Financial Services",1919,16
+APC by Schneider Electric,"Information Technology, Energy",1981,45
+Appen,"Software, Software Technology, Social Media",2011,13
+Aramco,Energy,1933,24
+Aramex,"Logistics and Supply Chain, ECommerce",1982,38
+Arcadis,"Management Consulting, Business Intelligence, Building Materials",1888,18
+Aricent,"Design, Telecommunications",1991,16
+Arizona State University,"Design, Education",1885,37
+Arrow ECS,Information Technology,1934,31
+ASSA ABLOY Group,"Building Materials, Cyber Security",1994,13
+Asseco,Software,2004,11
+ASUS,Hardware,1990,41
+Atrium,Healthcare,1940,29
+Australia Post,"Banking, Financial Services",1809,27
+Avanade,"Software, Information Technology, Business Intelligence, Customer Relationship Management",2000,66
+Avere Systems,Software,2008,55
+Avis Budget Group,,1946,18
+Aviva,"Finance, Insurance",2000,13
+Avnet,"Software, Information Technology, Hardware",1921,52
+AXA,"Financial Services, Insurance",1958,31
+BAE Systems,"Software, Design",1997,37
+"Baidu (China) Co., Ltd.","Social Media, Internet, Media Production",1999,17
+Bain & Company,"Management Consulting, Information Technology, Internet",1973,19
+Banco Santander,"Finance , Banking, Financial Services",1857,11
+Barclaycard,Financial Services,1966,12
+Barclays,"Accounting, Banking, Financial Services, Insurance",1800,19
+Barloworld,Business Communications,1902,11
+Baxter International,Pharmaceutical,1931,12
+Bayer,"Design, Healthcare, Agriculture",1863,13
+BBC,Broadcasting,1922,31
+BB&T,"Banking, Financial Services",1872,14
+BCD Travel,,2006,12
+Bed Bath & Beyond,"Retail, ECommerce",1971,23
+Bell Canada,Telecommunications,1880,20
+Best Buy,"Internet, Retail, ECommerce",1966,43
+Birlasoft,"Software, Information Technology, App Development",1990,44
+Black &amp; Veatch,"Software, Management Consulting",1915,18
+BlackRock,Financial Services,1988,25
+Blue Dart,Logistics and Supply Chain,1983,22
+BMW Group,"Software, Software Technology, Information Technology, Automotive, Artificial Intelligence , Financial Services, Cyber Security",1916,18
+BNY Mellon,"Banking, Financial Services",1784,29
+Boehringer Ingelheim,Healthcare,1973,11
+Boeing,Automotive,1916,18
+Booz Allen Hamilton,Management Consulting,1914,52
+Bosch,"Automotive, Internet, Consumer Goods",1886,32
+Boston Consulting Group,"Management Consulting, Information Technology",1963,49
+Bridgestone,"Automotive, Retail",1931,15
+Bristol Myers Squibb,Pharmaceutical,1986,20
+Broadridge,"Information Technology, Finance",1962,34
+Brother Industries,"Information Technology, Retail",1908,47
+Brunel Univercity Londan,Education,1966,48
+BT Global Services,"Telecommunications, Customer Service",1989,34
+BT Group,"Information Technology, Telecommunications, Internet",1980,51
+Burberry,"Design, Marketing, Retail, Logistics and Supply Chain, Fashion",1856,11
+Cabelas,Retail,1961,14
+CACI,Software,1962,18
+Canada Post,Package/Freight Delivery ,1981,55
+Capital One,"Finance, Financial Services",1994,53
+Cardinal Health,Healthcare,1971,17
+Cargill,"Financial Services, Agriculture, Food and Beverage",1865,13
+Carlson Wagonlit Travel (CWT),Event Management,1994,21
+Carnegie Mellon University,Education,1900,19
+Catavolt Inc.,"Software, Information Technology",1992,14
+CaterPillar,"Financial Services, Building Materials",1925,11
+Cathay Pacific Airways,Customer Service,1946,20
+CBRE,"Management Consulting, Project Management, Retail, Facility Management ",1906,15
+CentOS,Information Technology,2004,16
+Centrica Business Solutions,"Energy, Internet, Retail",1997,12
+CenturyLink,"Information Technology, Telecommunications",1930,60
+CGI Danmark,Information Technology,1976,17
+Charles Schwab,Financial Services,1973,15
+Chase,"Finance, Financial Services",2000,38
+Chase Paymentech,Financial Services,1995,30
+Chewy,"Retail, ECommerce",2011,14
+China Airlines,,1959,12
+China Telecom Global,"Social Media, Telecommunications, Internet",2000,11
+C.H. Robinson,Logistics and Supply Chain,1905,36
+Chronicle,Cyber Security,2018,59
+Chubb,Insurance,1882,12
+CIBER,"Software, Information Technology",1974,26
+Cigna,"Healthcare, Insurance, Pharmaceutical",1982,15
+Citibank,"Banking, Financial Services",1812,38
+Citizens Bank,"Banking, Retail",1828,12
+cocacola,Food and Beverage,1892,19
+Coforge,"Software, Insurance",2004,49
+Comcast,Telecommunications,1963,33
+Comcast Business,"Telecommunications, Internet",1963,12
+CompuCom,"Software, Information Technology, Hardware",1987,58
+Concentrix,"Information Technology, Marketing",1983,44
+Conduent,"Information Technology, Enterprise Solutions",2017,24
+Cornell University,Education,1865,12
+Correios,Logistics and Supply Chain,1969,17
+Crossmark,"Marketing, Retail, Consumer Goods",1905,34
+CVSHealth,"Healthcare, Pharmaceutical",1963,23
+Cyient,"Software, Information Technology, Data Management, Data Analytics",1991,12
+DAIMLER,"Automotive, Finance , Financial Services",1886,11
+DB Schenker,Logistics and Supply Chain,1872,11
+Decathlon,"Apparel , Retail, Consumer Goods, ECommerce",1976,13
+DELMIA Apriso,Software,1993,28
+Delta Air Lines,"Software, Advertising, Enterprise Solutions",1924,26
+Dematic,"Software, Logistics and Supply Chain",1819,20
+Deutsche Post,"Logistics and Supply Chain, Customer Service",1995,19
+Deutsche Telkom,"Software, Internet, Retail",1995,34
+DICK'S Sporting Goods,"Retail, Consumer Goods",1948,16
+Diebold Nixdorf,Information Technology,1859,50
+Digicel,"Telecommunications, ECommerce",2001,23
+Dillard's Inc.,Retail,1938,18
+Dimension Data,"Software, Information Technology",1983,88
+Discover Network,"Financial Services, ECommerce",1986,24
+dish,"Automotive, Telecommunications",1980,22
+Disney,"Social Media, Publishing ",1923,32
+DoorDash,"Software, Food and Beverage",2013,66
+dormakaba Holding AG,"Consumer Goods, Cyber Security",1862,36
+dpd,"Logistics and Supply Chain, ECommerce",1976,37
+DSV,Logistics and Supply Chain,1976,14
+Eaton,"Software, Automotive, Hardware",1911,22
+Econocom International Italia SpA,"Digital Marketing, Management Consulting, App Development, Financial Services",1973,15
+Electronic Data Systems,"Software, Enterprise Solutions",1955,32
+EMC,"Information Technology, Enterprise Solutions",1984,25
+Emerson,"Software, Hardware",1890,24
+Emirates,"Consumer Goods, Customer Service",1985,14
+Endava Limited,"Software, Information Technology",2000,14
+Engie,Energy,2008,12
+Engineering Ingegneria Informatica,"Software, Information Technology",1980,34
+Engineering USA,Information Technology,2006,14
+Entel,"Telecommunications, Public Relations",1964,22
+EOH Holdings,Information Technology,1998,13
+Equifax,"Information Technology, Finance, Banking",1899,84
+Ericsson,Telecommunications,1876,74
+Ernst & Young,Accounting,1989,92
+ETIHAD,Consumer Goods,2003,32
+Everis,"Management Consulting, Information Technology",1996,66
+eXelate,"Digital Marketing, Marketing, Internet",2007,18
+ExlService Holdings,"Accounting, Finance, Data Analytics, Banking, Healthcare",1999,30
+Expeditors,Logistics and Supply Chain,1979,12
+ExxonMobil,Energy,1870,14
+Farmers Insurance Group,"Automotive, Financial Services, Insurance",1928,11
+Fidelity Investments,"Finance, Financial Services",1946,13
+Fifth Third Bank,"Finance, Banking, Financial Services",1858,11
+Finastra,"Information Technology, Financial Services",2017,89
+FIS,"Software, Information Technology",1968,51
+Fiserv,"Information Technology, Financial Services",1984,74
+Flutter,Software,2017,16
+Ford Motor Company,"Automotive, App Development",1903,33
+FOREVER 21,"Retail, ECommerce",1984,13
+Foundever,"Software, Management Consulting, Enterprise Solutions",1985,16
+FPT Software,Information Technology,1999,24
+Fraunhofer-Gesellschaft,Software,1949,11
+Freddie Mac,"Finance, Financial Services",1970,90
+FUJIFILM,"Software, Phone Solution, Hardware",1934,12
+Gannett Co,"Broadcasting, Publishing ",1906,13
+Garmin,"Software, Design, Automotive, Project Management, Hardware, Consumer Goods",1989,31
+Gemalto,"Software, Information Technology",2006,76
+General Dynamics,Public Relations,1952,12
+General Dynamics Information Technology,"Information Technology, IT Services and IT Consulting",1999,98
+General Electric,Energy,1878,33
+General Mills,"Marketing, Food and Beverage, Consumer Goods",1928,14
+General Motors,"Automotive, Enterprise Solutions",1908,19
+Genpact,"Management Consulting, Information Technology, Financial Services",1997,74
+GFI,"Data Management Technology, Software, Management Consulting, Software Technology, Information Technology",1995,34
+GlobalLogic,"Software, Design",2000,28
+Global Payments,"App Development, Financial Services, ECommerce",1967,55
+Globant,"Software, Information Technology, ECommerce",2003,97
+GroupM,"Marketing, Social Media, Advertising",2001,16
+Harman International,"Music, Media Production",1980,48
+HCL Software,"Software, Information Technology",1991,82
+Hearst,Business Communications,1887,14
+Heineken,Food and Beverage,1863,21
+Hertz,Automotive,1918,29
+Hexagon Agriculture,"Software, Information Technology",2015,12
+Hexagon Safety & Infrastructure,"Software, Design",2015,46
+Hexaware Technologies,"Management Consulting, Information Technology, Data Analytics, Financial Services, Healthcare, Insurance",1990,96
+Hilton,Food and Beverage,1919,14
+HONDA,Automotive,1959,16
+H&R Block,"Accounting, Financial Services",1955,13
+HSBC,"Finance, Banking, Financial Services, Retail, Insurance, Cyber Security",1865,19
+htc,"Software, Hardware",1997,21
+HTC Global Services Inc,"Information Technology, Enterprise Solutions, Data Management, Artificial Intelligence , Customer Relationship Management, Cyber Security",1990,28
+HUB International,Insurance,1998,11
+Humana,"Healthcare, Insurance",1961,11
+Hyundai Motor Company,Automotive,1967,18
+ICL-КПО ВС,"Information Technology, Design",1991,36
+iHeartMedia,"Marketing, Advertising, Broadcasting, Internet",1972,25
+IHS Markit,Information Technology,1959,41
+ikea,Retail,1943,13
+Inetum,"Information Technology, Cyber Security",1970,14
+Infineon,Cyber Security,1999,11
+Infosys BPM,Information Technology,2002,19
+International SOS,Healthcare,1985,22
+Intrado,"Information Technology, Telecommunications",1979,14
+IQVIA,Healthcare,2016,44
+ITC Infotech,"Data Management, Data Analytics",2000,38
+Itron,"Business Communications, Data Management, Energy",1977,61
+iZettle,Financial Services,2010,29
+Jabil,"Automotive, Hardware, Telecommunications",1996,17
+Jacobs,Information Technology,1947,13
+JAVA,"Internet, ECommerce",1977,59
+JCPenney,Retail,1902,14
+JetBlue Airways,Internet,1999,24
+John Deere,"Agriculture, Consumer Goods",1837,11
+John Hancock,"Financial Services, Healthcare, Cyber Security",1862,25
+Johnson Controls,Hardware,1885,18
+Johnson & Johnson,"Information Technology, Healthcare",1886,12
+JP Morgan,Financial Services,1871,31
+Kantar,Market Research,2010,34
+KDDI,"Information Technology, Telecommunications",1984,23
+"Keller Williams Realty, Inc.",Management Consulting,1983,11
+Keybank,"Finance , Banking, Financial Services",1849,25
+Keysight Technologies,"Software, Information Technology",2014,84
+Kimberly-Clark Corporation,"Healthcare, Consumer Goods",1872,12
+KOHLS,Retail,1988,20
+Konica Minolta Inc,"Retail, Consumer Goods",1873,29
+Korn Ferry International,"Management Consulting, Recruiting, Human Resources",1969,12
+KPN,"Telecommunications, Internet",1881,16
+Kroger,"Retail, Logistics and Supply Chain, Consumer Goods",1883,18
+Kuehne+Nagel,Logistics and Supply Chain,1890,11
+Kyndryl,Information Technology,2021,33
+Kyocera Corporation,Telecommunications,1959,12
+L3 Harris Technologies,"Information Technology, Healthcare",1895,24
+LabCorp,"Healthcare, Pharmaceutical",1978,11
+Larsen & Toubro Limited,"Information Technology, Finance, Financial Services",1938,37
+"Leidos, Inc",Information Technology,1969,39
+Level 3 Communications,"Software, Enterprise Solutions, Data Analytics",1998,11
+Leviton Manufacturing,"Software, Hardware",1906,11
+LexisNexis,"Software, Information Technology, Legal Services",1970,69
+LexisNexis Risk Solutions,Data Analytics,2000,69
+Lexmark International,"Software, Information Technology, Hardware, Printing",1990,28
+LG,"Software, Information Technology, Hardware, Telecommunications, Consumer Goods",1958,57
+Liberty Mutual Insurance,"Finance, Insurance",1912,17
+LightCMS,Internet,1999,15
+Lincoln Financial Group,"Finance, Financial Services",1905,11
+Lockheed Martin Corporation,Cyber Security,1912,25
+LOREAL,"Consumer Goods, Fashion",1909,16
+LTIMindtree,"Management Consulting, IT Services and IT Consulting",1996,77
+Lumen Technologies,Information Technology,1930,21
+Luxoft,"Software, Management Consulting, Information Technology, Finance, Telecommunications, Financial Services, Healthcare, Customer Service",2000,20
+Macy's,"Retail, Consumer Goods, Fashion, ECommerce",1858,13
+Majesco,"Information Technology, Data Management",1982,45
+Mannai Corporation QPSC,"Information Technology, Automotive, Logistics and Supply Chain",1951,11
+MassMutual,"Finance, Financial Services, Insurance",1851,14
+Matrix,"Software, Information Technology, Customer Relationship Management",2001,11
+Maximus,"Education, Healthcare",1975,12
+Mazars,Accounting,1940,13
+McKesson,"Information Technology, Healthcare, Logistics and Supply Chain",1833,40
+McKinsey & Company,"Management Consulting, Business Intelligence",1926,29
+MDC Partners,"Marketing, Advertising",1980,16
+MEDIACOM,"Apparel , Social Media",1988,13
+MediaTek,"Social Media, Internet",1997,39
+Menards,"Retail, ECommerce",1960,11
+Mercado Libre,"Marketing, Internet, ECommerce",1999,14
+Mercer,Human Resources,1975,14
+"Merck & Co., Inc.",Healthcare,1891,16
+"Mercury Commerce, Inc.",Information Technology,0,44
+Merrill Lynch,Financial Services,1914,12
+Meta,Internet,2004,34
+METLIFE,"Financial Services, Insurance",1868,18
+Micron Technology,Hardware,1978,34
+Microsemi,Automotive,1960,15
+Mindtree,Internet,1999,58
+Modis,Information Technology,0,12
+Morgan Stanley,Financial Services,1935,13
+Motorola Solutions,"Information Technology, Telecommunications",2011,33
+Mount Sinai,Healthcare,2013,13
+Mphasis,Information Technology,1998,40
+myStaffingPro,"Software, Information Technology, Internet, Human Resources",1993,58
+Nagarro,"Software, Information Technology, IT Services and IT Consulting",1996,53
+NASA,"Management Consulting, Information Technology, Legal Services, Artificial Intelligence ",1958,18
+Nationwide Insurance,"Finance, Banking, Financial Services, Insurance",1925,18
+NBC,"Marketing, Social Media, Media Production",1996,17
+NBCUniversal,"Software Technology, Social Media, Media Production",2004,20
+NCS Group,Information Technology,1981,47
+NEC Corporation (Consulting),Information Technology,1899,36
+Neiman Marcus Group,Retail,1907,13
+NEMAK,"Information Technology, Automotive",1979,15
+Nespresso,App Development,1997,15
+Nestle,Food and Beverage,1866,20
+Nielsen,"Social Media, Advertising",1963,89
+Nike,"Design, Retail, Fashion",1964,23
+Nokia,Telecommunications,1865,55
+Nomura Research Institute Ltd,"Software, Management Consulting, Information Technology",1965,12
+Nordstrom,"Marketing, Consumer Goods, Fashion",1901,21
+Northrop Grumman,Cyber Security,1939,16
+Novartis,Healthcare,1996,32
+NTT Communication,"Information Technology, Telecommunications",1999,47
+NTT Ltd.,"Information Technology, Cyber Security",2019,45
+NXP Semiconductors,"Automotive, Internet",2006,75
+Office Depot,Retail,1986,22
+Omnicom Media Group,"Marketing, Advertising",2000,20
+ON Semiconductor,"Energy, Hardware",1999,20
+Optum,"Management Consulting, Education, Data Analytics, Healthcare",2011,19
+Optus,"Telecommunications, Internet, Cyber Security",1981,26
+Orange Business Services,"Information Technology, Video Communication, Telecommunications, Cyber Security",2006,90
+Otto Group,"Retail, Fashion, ECommerce",1949,11
+Panasonic,"Software, Marketing, Hardware, Consumer Goods",1918,79
+Paramount Global,"Social Media, Broadcasting",1912,11
+Pearson,"Software, Education, Internet",1998,13
+PepsiCo,"Marketing, Food and Beverage",1965,20
+PerkinElmer,"Software, Hardware, Healthcare",1931,14
+Persistent Systems Australia,"Software, IT Services and IT Consulting",1990,50
+Perspecta,Information Technology,2000,30
+Petco,Retail,1965,15
+PetSmart,Retail,1986,12
+Philips Healthcare,Healthcare,1891,14
+Photoshop,"Software, Graphic Design",1987,18
+Pitney Bowes Inc.,Information Technology,1920,85
+PNC,Financial Services,0,13
+Polarion,"Software, Information Technology",2005,30
+PostNL,Logistics and Supply Chain,2011,13
+Principal Financial Group,Financial Services,1879,15
+Proximus Group,"Information Technology, Telecommunications, Internet, Healthcare",1992,23
+Prudential Financial,"Financial Services, Insurance",1875,14
+Publicis Groupe,"Marketing, Advertising, Healthcare",1926,17
+Publicis Sapient,"Software, Management Consulting",1990,80
+Qantas,Automotive,1920,33
+Quad Graphics,"Marketing, Advertising",1971,27
+Quest Diagnostics,Healthcare,1959,19
+QVC,"Data Management Technology, Video Communication, Retail",1986,16
+Raytheon Technologies,Cyber Security,2020,59
+Red Bull,"Event Management, Food and Beverage",1984,12
+Responsys,"Software, Marketing",1998,53
+Reuters,Media Production,1851,17
+Ricoh Company,"Software, Information Technology, Hardware",1962,79
+RightSignature,"Software, Legal Services",2009,26
+RITE AID,Retail,1968,18
+Rogers Communications,"Broadcasting, Telecommunications, Internet, Publishing , ECommerce",1960,16
+Royal Mail,Logistics and Supply Chain,0,42
+Saia LTL Freight,Logistics and Supply Chain,1924,11
+SAIC,Information Technology,2013,12
+Saks Fifth Avenue,"Consumer Goods, ECommerce",1924,14
+Sam's Club,"Retail, ECommerce",1983,25
+Samsung Knox,"Information Technology, Telecommunications, Cyber Security",2012,33
+Samsung SDS,"Enterprise Solutions, Business Intelligence, Telecommunications, Retail",1985,13
+SAP Fieldglass,"Software, Enterprise Solutions, Internet",1999,30
+SCC,Information Technology,1975,34
+Schlumberger,"Software, Energy",1926,15
+Schneider Electric,"Software, Information Technology, Design, Enterprise Solutions, Energy, Building Materials",1836,36
+Scotiabank,"Finance, Banking, Financial Services",1832,15
+SCSK Corporation,Information Technology,1969,26
+Seagate,"Software, Hardware",1979,29
+SEEK Ltd.,"Management Consulting, Internet, Recruiting",1997,26
+Sephora,Retail,1969,27
+Sherwin-Williams,,1866,13
+Siemens in Africa,"Information Technology, Hardware",1847,14
+Singtel,"Digital Marketing, Information Technology, Enterprise Solutions, Telecommunications, Internet, Public Relations, Cyber Security",1879,24
+Six Flags,Media Production,1971,11
+SNC Lavalin,"Management Consulting, Project Management, Energy",1911,26
+SoftBank,"Finance, Telecommunications, Internet",1981,26
+SoftLayer,"Information Technology, Internet",2005,12
+Softline,"Software, Information Technology",1993,48
+SoftServe Inc,"Software, Information Technology",1993,60
+Softtek,"Software, Information Technology",1982,11
+Sogeti,"Information Technology, Enterprise Solutions",1967,28
+Sony,"Software, Hardware, Consumer Goods",1946,51
+Sopra Banking Software,"Software, Information Technology, Banking",2012,19
+S&P Global,"Software, Finance, Enterprise Solutions, Data Analytics, Financial Services, Market Research",1888,25
+Spotify,"Video Communication, Music",2006,94
+SS&C Technologies,"Software, Financial Services",1986,15
+Stanford University,"Management Consulting, Education",1885,11
+STAPLES,"Software, Retail, Consumer Goods",1986,21
+Starbucks,"Food and Beverage, Retail",1971,17
+State Farm Insurance,"Finance, Financial Services, Insurance",1922,19
+State Street,"Banking, Financial Services",1892,12
+Stefanini,Information Technology,1987,19
+Sun Life,Financial Services,1865,14
+Sutherland,Information Technology,1986,16
+Swisscom,"Information Technology, Telecommunications",1998,35
+Swiss Post,Logistics and Supply Chain,1998,13
+Sybase,"Software, Information Technology",1984,58
+Synchrony,"Finance, Financial Services, Insurance",2003,12
+Syntel,Information Technology,1980,45
+Target,"Retail, ECommerce",1962,33
+TaskUs,Customer Service,2008,11
+TDBank,Banking,1852,14
+TD Synnex,Information Technology,2021,20
+Technicolor,"Software, Advertising",1915,18
+TEKsystems,"Information Technology, Human Resources",1983,33
+Telefonica,"Web Development, Telecommunications, Internet, Public Relations",1924,37
+Telenet Belgium,"Internet, Public Relations",1996,15
+Telenor,Telecommunications,1855,21
+Teleperformance,"Software Technology, Telecommunications, Public Relations",1978,32
+Telstra,Telecommunications,1975,52
+Texas Instruments,Information Technology,1930,36
+The Coca-Cola Company,Food and Beverage,1892,22
+The Hartford,Insurance,1810,41
+THE HOME DEPOT,"Retail, ECommerce",1977,42
+The Johns Hopkins University,"Information Technology, Education",1876,15
+Thomson Reuters Brasil,"Information Technology, Accounting, Finance",0,55
+T-Mobile,Telecommunications,2002,46
+TNT Express,Logistics and Supply Chain,1946,15
+Toll Holdings,"Finance, Banking",1973,11
+Toyota Motor Corporation,Automotive,1937,26
+TransUnion,Information Technology,1968,57
+Travelers Insurance,Insurance,1853,13
+TSYS,"Banking, Financial Services",1983,33
+T-Systems,Telecommunications,2000,90
+TTEC,"Software, Management Consulting, Information Technology, Market Research, Customer Service",1982,55
+Tyco,Hardware,0,65
+Uber,Customer Service,2009,70
+UNICEF USA,"Advertising, Education, Data Analytics, Logistics and Supply Chain, Market Research",1946,27
+Unilever,"Food and Beverage, Consumer Goods",1930,23
+Unisys,"Software, Information Technology",1984,39
+Unisys Brasil,"Information Technology, Internet",1964,18
+United Airlines,Customer Service,1926,14
+United Surgical Partners International,Healthcare,1998,19
+Universal,"Video Communication, Media Production",1990,24
+University of Colorado,Education,1876,11
+USAA,"Banking, Financial Services, Insurance",1922,33
+US Bank,"Banking, Financial Services",1863,38
+U.S. Census Bureau,"Software, Government Administration",1902,25
+USPS,Government Administration,1775,80
+UST,Information Technology,1999,35
+UST Global,"Information Technology, App Development",1999,57
+Vanderbilt University,Education,1873,20
+Vanguard,"Finance, Financial Services",1975,17
+Verizon Enterprise Solutions,Information Technology,1988,14
+Verizon Media,Internet,2017,66
+Vertafore,"Software, Information Technology",1969,22
+Vertiv,"Software, Data Management, Hardware, Data Analytics",2016,54
+V.Group,Information Technology,1984,19
+Virgin,"Finance , Energy, Healthcare",1970,12
+Virgin Media,"Social Media, Broadcasting, Internet",2001,19
+Virtusa Corporation,"Management Consulting, Information Technology",1996,44
+Volvo Cars Group,Automotive,1927,13
+Walgreens,"Healthcare, Consumer Goods, Pharmaceutical",1901,20
+Walmart Canada,Retail,1994,12
+Wells Fargo,"Banking, Financial Services, Insurance",1852,37
+West Corporation,"Information Technology, Telecommunications",1986,27
+Western Digital,"Software, Hardware",1970,61
+Western Union,"Internet, Financial Services",1851,15
+WestJet,Customer Service,1996,24
+Westpac,Banking,1817,41
+Whirlpool,"Software, Hardware, Consumer Goods",1911,23
+Willis Towers Watson,Financial Services,1828,24
+Windstream Enterprise,Internet,2006,15
+WNS,"Management Consulting, Finance, Financial Services",1996,20
+Wolters Kluwer,Information Technology,1836,67
+Workplace,Software,2004,92
+Worldline,"Information Technology, Finance",1970,82
+WPP,"Social Media, Advertising",1985,22
+Wunderman Thompson,"Marketing, Advertising",1958,57
+Xerox,"Digital Marketing, Software, Information Technology, Hardware",1960,58
+XPO Logistics,Logistics and Supply Chain,2000,18
+YMCA,,1844,13
+Zalando,"Information Technology, Internet",2008,15
+Zensar Technologies,"Software, Data Management",1991,49
+ZS Associates,Management Consulting,1983,27
