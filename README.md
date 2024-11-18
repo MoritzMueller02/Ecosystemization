@@ -5,4 +5,4 @@ companies ranging from 2008 - 2023.
 
 In total I trained 7 supervised models. 
 
-This project was / is still mnominated for the German Research Price Business/Economics (for Bachelor Students of Course ;) )
+This project was / is still mnominated for the German Research Price Business/Economics (for Bachelor Students of course)
